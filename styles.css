@@ -1,0 +1,21 @@
+
+.button{
+    background-color: cornsilk;
+    color: blueviolet;
+}
+.container{
+    width: 50%;
+    margin: auto;
+    background-color: blueviolet;
+    padding: 50px 30px;
+    border-radius: 20px;
+    font-size: 20px;
+    color: white;
+    
+
+}
+.size{
+    width: 100%;
+    font-size: 20px;
+    border-radius: 10px;
+}
